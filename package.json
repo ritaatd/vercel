@@ -150,5 +150,10 @@
         }
       }
     ]
+  },
+  "pnpm": {
+    "overrides": {
+      "whatwg-url": "14.x"
+    }
   }
 }
