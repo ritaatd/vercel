@@ -153,7 +153,7 @@
   },
   "pnpm": {
     "overrides": {
-      "node-fetch@2.x>whatwg-url": "12.x"
+      "node-fetch@2.x>whatwg-url": "12.0.1"
     }
   }
 }
